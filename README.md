@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+It's Evan
+A Junior Web Developer
+Graguated at Nation Taipei University of Bussiness
+Majored in Imformation Management
+
+HTML / CSS / JavaScript / AngularJS
+Java / MySQL 
+
+My Personal Web
+EvanGuoNTUB.github.io
+
 <!--
 **EvanGuoNTUB/EvanGuoNTUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
