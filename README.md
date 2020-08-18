@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome!
 
 It's Evan
 A Junior Web Developer
@@ -9,7 +9,7 @@ HTML / CSS / JavaScript / AngularJS
 Java / MySQL 
 
 My Personal Web
-EvanGuoNTUB.github.io
+https://evanguontub.github.io/Personal_Web/
 
 <!--
 **EvanGuoNTUB/EvanGuoNTUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
