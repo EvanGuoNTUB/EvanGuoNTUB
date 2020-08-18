@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome!
 
-It's Evan    Web Developer
+It's Evan        A Web Developer
 
 Graguated at Nation Taipei University of Bussiness
 
