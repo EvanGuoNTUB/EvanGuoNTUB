@@ -1,8 +1,6 @@
 ### Hi there 👋 Welcome!
 
-It's Evan
-
-A Junior Web Developer
+It's Evan    Web Developer
 
 Graguated at Nation Taipei University of Bussiness
 
