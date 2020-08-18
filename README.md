@@ -1,8 +1,11 @@
 ### Hi there 👋 Welcome!
 
 It's Evan
+
 A Junior Web Developer
+
 Graguated at Nation Taipei University of Bussiness
+
 Majored in Imformation Management
 
 HTML / CSS / JavaScript / AngularJS
