@@ -8,7 +8,7 @@ Graguated at Nation Taipei University of Bussiness
 
 Majored in Imformation Management
 
-HTML / CSS / JavaScript / AngularJS
+HTML / CSS / JavaScript / AngularJS /
 Java / MySQL 
 
 My Personal Web :
