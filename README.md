@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome!
 
-It's Evan  🙋🏻
+It's Evan Guo 🙋🏻
 
 A Web Developer🏃🏻
 
@@ -8,8 +8,11 @@ Graguated at Nation Taipei University of Bussiness
 
 Majored in Imformation Management
 
-HTML / CSS / JavaScript / AngularJS /
-Java / MySQL 
+HTML / CSS / JavaScript / Angular / Java 
+
+My Resume :
+
+https://www.cakeresume.com/rrr4408rrr
 
 My Personal Web :
 
