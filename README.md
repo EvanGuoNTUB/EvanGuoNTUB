@@ -13,6 +13,7 @@ HTML / CSS / JavaScript / Angular / Java
 My Resume :
 
 https://www.cakeresume.com/rrr4408rrr
+https://www.cakeresume.com/s--W-CiGFucmRQu-sG9Nq-YrQ--/rrr4408rrr
 
 My Personal Web :
 
