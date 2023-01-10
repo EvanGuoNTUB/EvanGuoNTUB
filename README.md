@@ -1,14 +1,12 @@
 ### Hi there 👋 Welcome!
 
-It's Evan Guo 🙋🏻
+Here is Evan Guo 🙋🏻
 
-A Web Developer🏃🏻
+Majored in Information Management at NTUB in Taiwan 🇹🇼 
 
-Graguated at Nation Taipei University of Bussiness
+Now As A Web Developer 🖥
 
-Majored in Imformation Management
-
-HTML / CSS / JavaScript / Angular / Java 
+HTML / CSS / JavaScript / Angular / Java / React / React Native 
 
 My Resume :
 
